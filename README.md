@@ -1,31 +1,31 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Devanagari&weight=500&size=24&pause=1000&color=F78C3EE0&background=FFD49D00&width=435&lines=+%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%2C+%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%97%E0%A4%A4%E0%A4%AE%E0%A5%8D)](https://git.io/typing-svg)
 
-### 🚀 ***Navneet Gupta | Software Developer***
+### 🚀 ***Sachin Sharma | Software Developer***
 🔹 Java | Spring Boot | MERN | Machine Learning | DevOps Enthusiast  
 🔹 Passionate about building scalable solutions & exploring Cloud Computing  
 
 <div>
   <h1>
     <img src="about_me.gif" width="50px"><b> About Me </b>
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nihalawasthi.nihalawasthi">
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sachiin0209.sachiin0209">
 </h1>
 </div>
 
 ---
 ## 👨‍💻 About Me  
-<img align="right" src="https://github.com/Navneetg2003/assets/blob/main/about_me.gif" width="120px">
+<img align="right" src="https://github.com/sachiin0209/assets/blob/main/about_me.gif" width="120px">
 
 💡 **Backend Developer** | Java, Spring Boot, Node.js  
 💡 **Full-Stack Enthusiast** | React.js, MongoDB, MySQL  
 💡 **AI & ML Explorer**
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/navneetgupta/) | [Twitter](https://x.com/navgupta1302)  
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/sachin-sharma-218746250/) | [Twitter](https://x.com/navgupta1302)  
 
 ---
 
 ## 🏆 GitHub Achievements  
 <div align="center">  
-  <img src="https://github-trophy.vercel.app/?username=Navneetg2003&margin-w=10&theme=radical">
+  <img src="https://github-trophy.vercel.app/?username=sachiin0209&margin-w=10&theme=radical">
 </div>  
 
 ---
@@ -77,9 +77,9 @@
 ## 📈 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Navneetg2003&show_icons=true&theme=radical&hide=issues">
+  <img src="https://github-readme-stats.vercel.app/api?username=sachiin0209&show_icons=true&theme=radical&hide=issues">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navneetg2003&theme=radical">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachiin0209&theme=radical">
 </div>  
 
 ---
