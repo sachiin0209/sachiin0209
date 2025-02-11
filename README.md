@@ -19,7 +19,7 @@
 💡 **Full-Stack Enthusiast** | React.js, MongoDB, MySQL  
 💡 **gen AI Explorer**
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/sachin-sharma-218746250/) | [Twitter](https://x.com/navgupta1302)  
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/sachin-sharma-218746250/) | [
 
 ---
 
