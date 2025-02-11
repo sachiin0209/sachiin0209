@@ -46,7 +46,7 @@
 ### 🌐 Backend & Databases  
 
 
-<img src="https://img.icons8.com/ios/50/ffffff/node-js.png" width="40" alt="Node.js">&nbsp;
+
 <img src="https://github.com/Navneetg2003/assets/blob/main/mongodb.png?raw=true" width="40" alt="MongoDB">&nbsp;
 <img src="https://img.icons8.com/ios/50/ffffff/mysql.png" width="40" alt="MySQL">&nbsp;
 <img src="https://img.icons8.com/?size=100&id=25010&format=png&color=ffffff" width="40" alt="PostgreSQL">&nbsp;
