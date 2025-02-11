@@ -66,7 +66,6 @@
 
 ### 🤖 AI/ML  
 
-<img src="https://img.icons8.com/ios/50/ffffff/pytorch.png" width="40" alt="PyTorch">&nbsp;
 
 </td>
 </tr>
